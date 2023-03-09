@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Omdena Air pollution project**
 
-- 🌱 I’m currently learning **Tensorflow, OpenCV**
+- 🌱 I’m currently learning **Tensorflow, OpenCV, Flask**
 
 - 👯 I’m looking to collaborate on **any machine learning projects**
 
